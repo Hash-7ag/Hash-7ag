@@ -29,6 +29,7 @@
 
 ## 📌 My Projects:
 
-- 🎯 [Quiz Board](https://Hash-7ag.github.io/QuizArena-AZE/)
-- 🎨 [Mezza](https://Hash-7ag.github.io/Mezza/)
-- 📚 [SASS Library](https://github.com/Hash-7ag/SASS-library)
+- 🍃 [SOAT](https://hash-7ag.github.io/SOAT/) - Tailwdin project
+- 🎯 [Quiz Board](https://Hash-7ag.github.io/QuizArena-AZE/) - JS project
+- 🎨 [Mezza](https://Hash-7ag.github.io/Mezza/) - CSS project
+- 📚 [SASS Library](https://github.com/Hash-7ag/SASS-library) - SASS project
