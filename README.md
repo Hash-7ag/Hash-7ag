@@ -4,11 +4,12 @@
 
 >Hi, I'm Hash — a web developer passionate about creating websites.
 
-## 🛠️ Technology
+## 🔧 Technology
 
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&&logo=SASS&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -33,3 +34,10 @@
 - 🎯 [Quiz Board](https://Hash-7ag.github.io/QuizArena-AZE/) - JS project
 - 🎨 [Mezza](https://Hash-7ag.github.io/Mezza/) - CSS project
 - 📚 [SASS Library](https://github.com/Hash-7ag/SASS-library) - SASS project
+  
+### 🛠️ Under development:
+
+- [SPA site](https://github.com/Hash-7ag/ReduxToolkit-Learning-X2) - Redux Toolkit, React Router DOM, JS
+- [To-do List](https://github.com/Hash-7ag/Typescript-Todo-List) - Typescript, Tailwind
+- [W-Store](https://github.com/Hash-7ag/Web-Store-Test) - Redux Toolkit, React, JS 
+
