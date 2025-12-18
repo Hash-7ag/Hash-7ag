@@ -2,8 +2,6 @@
 
 📟 Front-End Web Designer  
 
->Hi, I'm Hash — a web developer passionate about creating websites.
-
 ## 🔧 Technology
 
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
@@ -19,14 +17,15 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-## ℹ️ About me:
+## 👨‍💻 About Me:
 
-> 👋 I'm Hash, a passionate web developer who enjoys bringing ideas to life through clean and functional websites.
-> I focus on creating responsive layouts, writing efficient ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) code, and constantly learning new tools and technologies like React
-.
-> I started my journey with simple ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)/![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3) projects, and over time I’ve developed a love for solving problems and building useful things for people.
-> My goal is to become a professional full-stack developer and work on exciting, real-world projects that make a difference.
-> Outside of coding, I enjoy playing sports 🥊, drawing 🎨, and spending time gaming 🎮 with friends — it helps me stay balanced and inspired.
+> 👋 Hi! I'm a Junior Frontend Developer passionate about learning and growth.
+>
+> I work with HTML, CSS, SASS, JavaScript, TypeScript, React, and modern tools like Tailwind CSS, Redux Toolkit, and Vite.
+> I enjoy tackling complex tasks, finding effective solutions, and continuously pushing my skills forward.
+>
+> My goal is simple: learn what I didn't know before and do well what I couldn't do before.
+
 
 ## 📌 My Projects
 
