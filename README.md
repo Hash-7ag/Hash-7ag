@@ -30,6 +30,7 @@
 
 ## 📌 My Projects:
 
+- ☑️ [To-do List](https://github.com/Hash-7ag/Typescript-Todo-List) - Typescript, Tailwind
 - 🍃 [SOAT](https://hash-7ag.github.io/SOAT/) - Tailwdin project
 - 🎯 [Quiz Board](https://Hash-7ag.github.io/QuizArena-AZE/) - JS project
 - 🎨 [Mezza](https://Hash-7ag.github.io/Mezza/) - CSS project
@@ -38,6 +39,5 @@
 ### 🛠️ Under development:
 
 - [SPA site](https://github.com/Hash-7ag/ReduxToolkit-Learning-X2) - Redux Toolkit, React Router DOM, JS
-- [To-do List](https://github.com/Hash-7ag/Typescript-Todo-List) - Typescript, Tailwind
 - [W-Store](https://github.com/Hash-7ag/Web-Store-Test) - Redux Toolkit, React, JS 
 
