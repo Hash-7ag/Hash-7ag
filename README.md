@@ -1,4 +1,4 @@
-# 👋 Hi! Hash_tag
+# 👋 Hi!
 
 📟 Front-End Web Designer  
 
