@@ -46,8 +46,7 @@
 - 🛠 Tech: SASS
 - 📄 Description: Custom utility SASS library
 
-  
-### 🛠️ Under development:
+
 
 ## 🚧 Projects Under Development
 
