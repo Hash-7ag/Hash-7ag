@@ -28,16 +28,53 @@
 > My goal is to become a professional full-stack developer and work on exciting, real-world projects that make a difference.
 > Outside of coding, I enjoy playing sports 🥊, drawing 🎨, and spending time gaming 🎮 with friends — it helps me stay balanced and inspired.
 
-## 📌 My Projects:
+## 📌 My Projects
 
-- ☑️ [To-do List](https://github.com/Hash-7ag/Typescript-Todo-List) - Typescript, Tailwind
-- 🍃 [SOAT](https://hash-7ag.github.io/SOAT/) - Tailwdin project
-- 📚 [SASS Library](https://github.com/Hash-7ag/SASS-library) - SASS project
+### 🧩 To-do List
+- 🌐 Live Demo: https://hash-7ag.github.io/Typescript-Todo-List/
+- 📦 Repository: https://github.com/Hash-7ag/Typescript-Todo-List
+- 🛠 Tech: TypeScript, Tailwind CSS
+- 📱 Responsive: Yes (Mobile / Tablet / Desktop)
+
+### 🍃 SOAT
+- 🌐 Live Demo: https://hash-7ag.github.io/SOAT/
+- 📦 Repository: https://github.com/Hash-7ag/SOAT
+- 🛠 Tech: HTML, Tailwind CSS
+- 📱 Responsive: Yes (Mobile / Tablet / Desktop)
+
+### 📚 SASS Library
+- 📦 Repository: https://github.com/Hash-7ag/SASS-library
+- 🛠 Tech: SASS
+- 📄 Description: Custom utility SASS library
+
   
 ### 🛠️ Under development:
 
-- [SPA site](https://github.com/Hash-7ag/ReduxToolkit-Learning-X2) - Redux Toolkit, React Router DOM, JS
-- [Quiz Board](https://Hash-7ag.github.io/QuizArena-AZE/) - JS project
-- [W-Store](https://github.com/Hash-7ag/Web-Store-Test) - Redux Toolkit, React, JS
-- [Mezza](https://Hash-7ag.github.io/Mezza/) - CSS project 
+## 🚧 Projects Under Development
 
+### 🧠 SPA Site
+- 🌐 Live Demo: https://hash-7ag.github.io/ReduxToolkit-Learning-X2/
+- 📦 Repository: https://github.com/Hash-7ag/ReduxToolkit-Learning-X2
+- 🛠 Tech: React, Redux Toolkit, React Router, JavaScript
+- 📌 Status: In progress
+- 📱 Responsive: Yes (Mobile / Tablet / Desktop)
+
+### 🛒 W-Store
+- 📦 Repository: https://github.com/Hash-7ag/Web-Store-Test
+- 🛠 Tech: React, Redux Toolkit, JavaScript
+- 📌 Status: In progress
+- 📱 Responsive: No (Mobile / Tablet / Desktop)
+
+### ❓ Quiz Board
+- 🌐 Live Demo: https://hash-7ag.github.io/QuizArena-AZE/
+- 📦 Repository: https://github.com/Hash-7ag/QuizArena-AZE
+- 🛠 Tech: JavaScript
+- 📌 Status: Stopped
+- 📱 Responsive: Yes (Mobile / Tablet / Desktop)
+
+### 🎨 Mezza
+- 🌐 Live Demo: https://hash-7ag.github.io/Mezza/
+- 📦 Repository: https://github.com/Hash-7ag/Mezza
+- 🛠 Tech: HTML, CSS
+- 📌 Status: Stopped
+- 📱 Responsive: No (Mobile / Tablet / Desktop)
