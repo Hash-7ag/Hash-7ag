@@ -61,18 +61,18 @@
 - 📦 Repository: https://github.com/Hash-7ag/Web-Store-Test
 - 🛠 Tech: React, Redux Toolkit, JavaScript
 - 📌 Status: In progress
-- 📱 Responsive: No (Mobile / Tablet / Desktop)
+- 📱 Responsive: No
 
 ### ❓ Quiz Board
 - 🌐 Live Demo: https://hash-7ag.github.io/QuizArena-AZE/
 - 📦 Repository: https://github.com/Hash-7ag/QuizArena-AZE
 - 🛠 Tech: JavaScript
 - 📌 Status: Stopped
-- 📱 Responsive: Yes (Mobile / Tablet / Desktop)
+- 📱 Responsive: Yes (Mobile / Desktop)
 
 ### 🎨 Mezza
 - 🌐 Live Demo: https://hash-7ag.github.io/Mezza/
 - 📦 Repository: https://github.com/Hash-7ag/Mezza
 - 🛠 Tech: HTML, CSS
 - 📌 Status: Stopped
-- 📱 Responsive: No (Mobile / Tablet / Desktop)
+- 📱 Responsive: No
