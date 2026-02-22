@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me:
 
-> 👋 Hi! I'm a Junior Frontend Developer passionate about learning and growth.
+> 👋 Hi! I'm a Frontend Developer passionate about learning and growth.
 >
 > I work with HTML, CSS, SASS, JavaScript, TypeScript, React, and modern tools like Tailwind CSS, Redux Toolkit, and Vite.
 > I enjoy tackling complex tasks, finding effective solutions, and continuously pushing my skills forward.
