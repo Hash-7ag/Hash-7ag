@@ -21,7 +21,7 @@
 
 > 👋 Hi! I'm a Frontend Developer passionate about learning and growth.
 >
-> I work with HTML, CSS, SASS, JavaScript, TypeScript, React, and modern tools like Tailwind CSS, Redux Toolkit, and Vite.
+> I work with JavaScript, TypeScript, React, and modern tools like Tailwind CSS, Redux Toolkit, and Vite.
 > I enjoy tackling complex tasks, finding effective solutions, and continuously pushing my skills forward.
 >
 > My goal is simple: learn what I didn't know before and do well what I couldn't do before.
